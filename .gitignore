@@ -53,3 +53,4 @@ libs
 *.cab
 *.msi
 *.msm
+/.idea/deviceManager.xml
